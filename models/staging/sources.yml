@@ -1,0 +1,15 @@
+version: 2
+sources:
+  - name: HR
+    database: HR
+    schema:  HR_SCHEMA
+     
+    tables:
+      - name: EMPLOYEES
+      - name: DEPARTMENTS
+      - name: jobs
+      - name: job_history
+      - name: locations
+      - name: countries
+      - name: regoins
+      
